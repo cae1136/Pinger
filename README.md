@@ -1,2 +1,2 @@
 # Pinger
-Just a small Windows batch file that shows your IP configuration, pings Google, and then prints all that information in a text file in the same directory as the batch file.
+Pinger (currently v2) is a small batch file designed to enable a less experienced user to generate a file with their network configuration so that a support technician can diagnose network configuration issues.
