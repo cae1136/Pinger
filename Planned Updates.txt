@@ -1,2 +1,0 @@
-- Add the ability to change ping target
-- Make results.txt include more information (ie. Date, Time, User, Computer Name...)
